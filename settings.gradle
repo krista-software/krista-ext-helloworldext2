@@ -1,0 +1,2 @@
+// Standalone module — builds independently at the workspace root.
+rootProject.name = 'helloworldext2'
